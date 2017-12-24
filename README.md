@@ -1,2 +1,2 @@
 # Objective-C-Hacker-Rank
-Solution for some hacker rank problems using objective-c.
+Solutions for some Hacker Rank algorithms and data structures problems using objective-c.
